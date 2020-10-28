@@ -25,8 +25,8 @@
 ## Back-end Technology:
 *   Node.js
 *   Express.js
-*   Firebase Authentication
 *   MongoDB
+*   Firebase Authentication
 *   Heroku Hosting
 
 **[FRONT END REPOSITORY](https://github.com/ImPias/volunteer-network-client)**
